@@ -1,0 +1,8 @@
+/*section : navbar*/
+#navbar{
+    background-color: blue;
+    display:flex;
+    justify-content: space-between;
+    top: 0;
+    z-index: 1rem;
+}
